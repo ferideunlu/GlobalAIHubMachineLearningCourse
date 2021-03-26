@@ -1,7 +1,7 @@
 # Global AI Hub Machine Learning Course
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 22.03.2021  
 **Name:** Feride  
 **Surname:** ÜNLÜ  
 **Email:** feri-de@hotmail.com  
